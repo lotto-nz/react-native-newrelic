@@ -1,5 +1,5 @@
 {
-  "name": "react-native-newrelic",
+  "name": "@lotto-nz/react-native-newrelic",
   "version": "1.1.1",
   "description": "New Relic wrapper for React Native",
   "main": "index.js",
@@ -38,14 +38,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wix/react-native-newrelic.git"
+    "url": "git+https://github.com/lotto-nz/react-native-newrelic.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wix/react-native-newrelic/issues"
+    "url": "https://github.com/lotto-nz/react-native-newrelic/issues"
   },
-  "homepage": "https://github.com/wix/react-native-newrelic#readme",
+  "homepage": "https://github.com/lotto-nz/react-native-newrelic#readme",
   "keywords": [
     "React",
     "Native",
