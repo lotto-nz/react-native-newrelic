@@ -32,4 +32,3 @@ dependencies {
     compile 'com.newrelic.agent.android:android-agent:5.20.0'
     compile 'com.facebook.react:react-native:+' //from node_modules
 }
-y
